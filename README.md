@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWk2ZzJ6MTE0MXEwbjQ2MXVtMHZvZm16OHF6ZXRtNDJnemd3eW1kdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan4193&label=Profile%20views&color=0e75b6&style=flat" alt="pavan4193" /> </p>
 
-- 🔭 I’m a Aoftware Developer at **American Eagle outfitters**
+- 🔭 I’m a Software Developer at **American Eagle outfitters**
 
 - 🌱 I’m currently learning **Generative AI Courses**
 
